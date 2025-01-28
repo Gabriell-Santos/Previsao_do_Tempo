@@ -16,8 +16,22 @@ Com uma interface moderna e fácil de usar, você pode rapidamente saber se vai 
 - **HTML, CSS e JavaScript:** As bases da web que garantem uma interface suave e responsiva.
 - **APIs Poderosas:** Integração com o OpenWeatherMap para dados meteorológicos e com o Unsplash para imagens de fundo Únicas e correspondentes a pesquisa realizada.
 
-  ### 🛠️ Como Usar  
+### 🛠️ Como Usar  
+Siga as instruções abaixo para clonar e rodar o projeto em sua máquina:
+### 1️⃣ Pré-requisitos
+Certifique-se de ter o **Git** e um navegador web instalados em sua máquina.
 
+### 2️⃣ Clone o Repositório
+Abra o terminal e execute o seguinte comando para clonar o repositório:
+ ```bash
+   git clone https://github.com/Gabriell-Santos/Previsao_do_Tempo.git
+```
+### 3️⃣ Acesse a Pasta do Projeto
+Após clonar o repositório, entre no diretório do projeto com o comando:
+
+```bash
+ cd Previsao_do_Tempo
+````
 
 
 ✍️ Feito com amor por [Gabriell-Santos](https://github.com/Gabriell-Santos) ❤️ 🌐 🖋️
