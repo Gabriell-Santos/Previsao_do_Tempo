@@ -16,7 +16,7 @@ Com uma interface moderna e fácil de usar, você pode rapidamente saber se vai 
 - **HTML, CSS e JavaScript:** As bases da web que garantem uma interface suave e responsiva.
 - **APIs Poderosas:** Integração com o OpenWeatherMap para dados meteorológicos e com o Unsplash para imagens de fundo Únicas e correspondentes a pesquisa realizada.
 
-### 🛠️ Como Usar  
+### 🖥️ Como Usar 
 Siga as instruções abaixo para clonar e rodar o projeto em sua máquina:
 ### 1️⃣ Pré-requisitos
 Certifique-se de ter o **Git** e um navegador web instalados em sua máquina.
