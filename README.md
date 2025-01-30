@@ -34,4 +34,4 @@ Após clonar o repositório, entre no diretório do projeto com o comando:
 ````
 
 
-✍️ Feito com amor por [Gabriell-Santos](https://github.com/Gabriell-Santos) ❤️ 🌐 🖋️
+
